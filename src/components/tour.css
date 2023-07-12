@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+}
+.card{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    margin:50px;
+    
+}
+
+.card img{
+    width:300px;
+
+}
